@@ -1,5 +1,5 @@
 
-alert("Veuillez rentrer deux nombres à virgule")
+alert("Veuillez rentrer deux nombres à virgule, veillez à bien remplacer les virgules par des points !!!")
 
 function calculate() {
    
