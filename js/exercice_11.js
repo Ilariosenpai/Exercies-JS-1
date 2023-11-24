@@ -14,7 +14,14 @@ else if (chiffre > 5 && chiffre < 10) {
     
 }
 
-else if (chiffre > 10 ){
+else if (chiffre == 5){
+
+    alert("le chiffre est égal à 5")
+}
+
+
+else {
 
     alert("J'ai dit entre 1 et 10 sale segpa")
+    
 }
